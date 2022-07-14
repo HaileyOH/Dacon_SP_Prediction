@@ -1,18 +1,18 @@
-__The Project for the Prediction of Stock Price based on NLP sentimental analysis using News and SNS data__
+__The Project for the Prediction of Stock Price based on NLP sentimental analysis using News and SNS data__  
 
-DACON cometition information is here;  
-![DACON Competitions](https://dacon.io/competitions/official/235914/overview/)
+DACON cometition information is here;    
+![DACON Competitions](https://dacon.io/competitions/official/235914/overview/)  
 
-The team creates 10 models and the best model is selected by 2 steps of evaluation.
+The team creates 10 models and the best model is selected by 2 steps of evaluation.  
 
-__Model summary__
-[Model1] SP based Logistic Regression
-[Model2] SP based LSTM - Binary classification
-[Model3] SP based KlueBERT
-[Model4] SP based LSTM - Multi classification
-[Model5] Word based Logistic Regression
-[Model6] Word based LSTM
-[Model7] Word based KlueBERT
-[Model8] Customized sentimental dict LSTM
-[Model9] Customized sentimental dict Logistic Regression
-[Model10] Customized sentimental dict KR-FinBERT
+__Model summary__  
+- [Model1] SP based Logistic Regression  
+- [Model2] SP based LSTM - Binary classification  
+- [Model3] SP based KlueBERT  
+- [Model4] SP based LSTM - Multi classification  
+- [Model5] Word based Logistic Regression  
+- [Model6] Word based LSTM  
+- [Model7] Word based KlueBERT  
+- [Model8] Customized sentimental dict LSTM  
+- [Model9] Customized sentimental dict Logistic Regression  
+- [Model10] Customized sentimental dict KR-FinBERT  
