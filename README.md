@@ -20,4 +20,4 @@ The team creates 10 models and the best model is selected by 2 steps of evaluati
 - [Model9] Customized sentimental dict Logistic Regression  
 - [Model10] Customized sentimental dict KR-FinBERT  
 
-End.  
+End.  ..
