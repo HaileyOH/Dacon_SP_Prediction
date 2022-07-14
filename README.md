@@ -1,8 +1,11 @@
-__The Project for the Prediction of Stock Price based on NLP sentimental analysis using News and SNS data__  
+__The Project for the Prediction of Stock Price(SP) based on NLP sentimental analysis using News and SNS data__  
+This project was planned to participate in the 1st KRX Financial Big Data Utilization Idea Contest, and aims to predict stock prices through NLP sentiment analysis. 
 
+  
 DACON cometition information is here;    
-![DACON Competitions](https://dacon.io/competitions/official/235914/overview/)  
+[DACON Competitions](https://dacon.io/competitions/official/235914/overview/)  
 
+  
 The team creates 10 models and the best model is selected by 2 steps of evaluation.  
 
 __Model summary__  
